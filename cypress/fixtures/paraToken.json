@@ -1,0 +1,7 @@
+{
+  "grant_type": "authorization_code",
+  "client_id": "N-UMu8Wat8uccbfo42e4dT3qRBaUZHuXabqGhiL-TuQ",
+  "client_secret": "soRjOHBS8MPb6qMPluzSFGP9WSdGQgsVEMHMY3E0tSk",
+  "redirect_uri":"urn:ietf:wg:oauth:2.0:oob",
+  "code":"6lapZx8rxFBtAZrKtqC0XsZtoQ-pk5UC6Mm4TI-H5_0"
+}
